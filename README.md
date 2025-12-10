@@ -1,4 +1,4 @@
-# 📊 Nome do Projeto -- Dashboard Analítico
+# 📊 Dashboard Analítico
 
 ## 📝 Descrição do Projeto
 
